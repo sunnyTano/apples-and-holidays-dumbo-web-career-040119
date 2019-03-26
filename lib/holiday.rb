@@ -49,10 +49,10 @@ def all_holidays_with_bbq(holiday_hash)
     item.each do |value|
       if value == "BBQ"
     result << supply
-end
-end
-end
-end
+       end
+      end
+    end
+  end
 result
 end
 
